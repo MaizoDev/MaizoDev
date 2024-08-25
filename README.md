@@ -17,7 +17,7 @@
 - Iniciativas open-source donde pueda aportar y aprender
 
 ## 📫 Cómo contactarme
-- Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/leonardo-maizo-alemán/) o enviarme un correo a **leonardo.maizo@example.com**.
+- Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/leonardoaleman/) o enviarme un correo a **leonardoaleman536@gmail.com**.
 
 ## 😄 Pronombres
 - Él/Him
