@@ -30,6 +30,12 @@ Tienda administrable con vitrina pública en React y panel de administración en
 
 `React 19` · `TypeScript` · `Vite` · `Zustand` · `Framer Motion` · `Laravel 11` · `MySQL`
 
+### 🪑 Wooxd &nbsp;·&nbsp; *repositorio privado*
+
+App multiplataforma para diseño de muebles con visualización 3D y despiece preciso. Proyecto estructurado en Kotlin Multiplatform: módulo compartido, cliente Compose, app iOS y servidor propio.
+
+`Kotlin Multiplatform` · `Compose Multiplatform` · `Gradle` · código disponible bajo petición
+
 ---
 
 ## Stack
